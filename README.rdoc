@@ -1,9 +1,9 @@
-Redmine Toolbar Mods
-Tavish Armstrong
+= Redmine Toolbar Mods
+
+Written by: Tavish Armstrong
 
 Last updated: Mon Dec 19 14:01:08 EST 2011 
 
-Adds handy code wrapping buttons to the wiki toolbar.
 
 == Overview
 
