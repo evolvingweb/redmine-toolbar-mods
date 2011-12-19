@@ -7,4 +7,12 @@ Last updated: Mon Dec 19 14:01:08 EST 2011
 
 == Overview
 
-Adds buttons to autogenerate the tags for code blocks with syntax highlighting for sql, php, javascript, python, and ruby. Easily extended to more languages as the need arises. 
+Adds handy wiki toolbar buttons which autogenerate tags for code blocks with syntax highlighting. Currently supports sql, php, javascript, python, and ruby. Easily extended to more languages as the need arises. 
+
+=== Example
+
+Clicking on the php button will generate:
+
+<pre><code class="PHP"></code></pre>
+
+If text is highlighted then this text will be inserted between the tags.
