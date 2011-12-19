@@ -1,0 +1,10 @@
+Redmine Toolbar Mods
+Tavish Armstrong
+
+Last updated: Mon Dec 19 14:01:08 EST 2011 
+
+Adds handy code wrapping buttons to the wiki toolbar.
+
+== Overview
+
+Adds buttons to autogenerate the tags for code blocks with syntax highlighting for sql, php, javascript, python, and ruby. Easily extended to more languages as the need arises. 

@@ -1,0 +1,18 @@
+/*
+ * Buttons for jstoolbar
+ */
+.jstb_sql {
+        background-image: url(../images/bt_sql.png);
+}
+.jstb_js {
+        background-image: url(../images/bt_js.png);
+}
+.jstb_php {
+        background-image: url(../images/bt_php.png);
+}
+.jstb_python {
+        background-image: url(../images/bt_python.png);
+}
+.jstb_ruby {
+        background-image: url(../images/bt_ruby.png);
+}
